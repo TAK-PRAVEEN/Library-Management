@@ -46,8 +46,9 @@ class BookDataBase:
         if title in self.books:
             if self.books[title]["Copies"] > 0:
                 self.books[title]["Copies"] -= 1
-            else:
-                return False
+                return True
+        else:
+            return False
         self.save_data()
     
     def return_book(self, title):
