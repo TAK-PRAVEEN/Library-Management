@@ -24,8 +24,19 @@ Library-Management/
 ## Installation
 
 1. Clone the repository:
+   ``` bash
+   git clone https://github.com/TAK-PRAVEEN/Library-Management.git
+   cd Library-Management
+   ```
+
 2. Install dependencies (if required):
+   ``` bash
+   pip install tkinter
+   ```
 3. Run the application:
+   ``` bash
+   python app.py
+   ```
 
 ## Usage
 
