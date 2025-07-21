@@ -9,6 +9,10 @@ A simple Library Management System built with Python to manage books, users, and
 - Track book borrowing and returning transactions.
 - Store and retrieve data from a database.
 
+## Preview
+<img width="1495" height="781" alt="Screenshot 2025-02-01 201553" src="https://github.com/user-attachments/assets/014e299b-bf38-4548-9906-6a1756eb90e0" />
+
+
 ## Project Structure
 ``` bash
 Library-Management/
